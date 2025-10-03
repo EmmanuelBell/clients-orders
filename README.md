@@ -1,0 +1,1 @@
+ > This project starts as a training sandbox to implement a CRUD API (Clients & Orders) using FastAPI, PostgreSQL, and Docker. Chapter 1 goal: run `docker compose up` and reach `/health` in Postman.
